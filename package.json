@@ -1,0 +1,22 @@
+{
+  "name": "n-th-occurrence",
+  "version": "0.0.1",
+  "description": "Return 0-based index of given character in string from its tail",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/we2seek/n-th-occurrence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/we2seek/n-th-occurrence/issues"
+  },
+  "homepage": "https://github.com/we2seek/n-th-occurrence#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
